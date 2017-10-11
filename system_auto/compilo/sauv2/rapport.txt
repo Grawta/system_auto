@@ -1,2 +1,0 @@
-Nous avons choisi de faire des instructions assembleurs à deux paramètres car nous nous sommes rendus comptes que les premiers et deuxième paramètres étaient toujours identiques.
-de même certaines instructions ne nécessitent pas de troisièmes paramètres. (cf tableau dans le sujet )
