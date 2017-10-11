@@ -1,0 +1,10 @@
+int ajoutInstru(char *instru, int registre1, int registre2);
+void supprLastInstru(void);
+void afficherTab(FILE *fichier);
+void changeInstrIf(void);
+void changeInstrIfElse(void);
+void print_test_cond(void);
+void addFonction(char *fonction);
+int getCompt();
+void addWhile(void);
+int adrFonct(char * nom);
